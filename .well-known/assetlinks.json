@@ -1,0 +1,9 @@
+[{
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.zwap.loan",
+      "sha256_cert_fingerprints":
+      ["5B:E2:60:A4:59:C6:1A:9A:EF:3E:A6:CB:FC:AC:8E:10:54:1C:1F:66:A6:01:0A:07:E4:40:D3:96:2B:9C:67:C9"]
+    }
+  }]
