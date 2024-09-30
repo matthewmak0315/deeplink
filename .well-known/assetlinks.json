@@ -5,15 +5,6 @@
       "namespace": "android_app",
       "package_name": "com.zwap.loan",
       "sha256_cert_fingerprints":
-        ["2F:B8:45:68:9C:76:4E:33:4E:F4:7D:F8:EE:A6:55:65:45:2D:61:42:BA:BF:69:CA:C0:5F:62:66:F5:73:68:0F"]
-    }
-  },
-  {
-    "relation": ["delegate_permission/common.handle_all_urls"],
-    "target": {
-      "namespace": "android_app",
-      "package_name": "com.zwap.loan",
-      "sha256_cert_fingerprints":
         ["5B:E2:60:A4:59:C6:1A:9A:EF:3E:A6:CB:FC:AC:8E:10:54:1C:1F:66:A6:01:0A:07:E4:40:D3:96:2B:9C:67:C9"]
     }
   }
